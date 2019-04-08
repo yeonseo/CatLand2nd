@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 39f976e4334ea6d4b8c2996d17e39253
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BezierCircle
+    100002: BezierCurve
+    100004: IMG_20180429_120041
+    100006: IMG_20180429_120041_001
+    100008: IMG_20180429_120041_002
+    100010: IMG_20180429_120041_003
+    100012: IMG_20180429_120041_004
+    100014: IMG_20180429_120435
+    100016: IMG_20180429_120435_001
+    100018: IMG_20180429_120435_002
+    100020: IMG_20180429_120435_003
+    100022: IMG_20180429_120435_004
+    100024: IMG_20180429_120435_005
+    100026: IMG_20180429_120435_006
+    100028: IMG_20180429_120435_007
+    100030: IMG_20180429_120435_008
+    100032: IMG_20180429_120435_009
+    100034: IMG_20180429_122516
+    100036: IMG_20180429_122516_001
+    100038: IMG_20180429_122516_002
+    100040: IMG_20180429_122516_003
+    100042: //RootNode
+    100044: NurbsPath
+    100046: NurbsPath_001
+    100048: NurbsPath_002
+    100050: NurbsPath_003
+    100052: Plane
+    100054: Sphere
+    400000: BezierCircle
+    400002: BezierCurve
+    400004: IMG_20180429_120041
+    400006: IMG_20180429_120041_001
+    400008: IMG_20180429_120041_002
+    400010: IMG_20180429_120041_003
+    400012: IMG_20180429_120041_004
+    400014: IMG_20180429_120435
+    400016: IMG_20180429_120435_001
+    400018: IMG_20180429_120435_002
+    400020: IMG_20180429_120435_003
+    400022: IMG_20180429_120435_004
+    400024: IMG_20180429_120435_005
+    400026: IMG_20180429_120435_006
+    400028: IMG_20180429_120435_007
+    400030: IMG_20180429_120435_008
+    400032: IMG_20180429_120435_009
+    400034: IMG_20180429_122516
+    400036: IMG_20180429_122516_001
+    400038: IMG_20180429_122516_002
+    400040: IMG_20180429_122516_003
+    400042: //RootNode
+    400044: NurbsPath
+    400046: NurbsPath_001
+    400048: NurbsPath_002
+    400050: NurbsPath_003
+    400052: Plane
+    400054: Sphere
+    2300000: BezierCircle
+    2300002: BezierCurve
+    2300004: IMG_20180429_120041
+    2300006: IMG_20180429_120041_001
+    2300008: IMG_20180429_120041_002
+    2300010: IMG_20180429_120041_003
+    2300012: IMG_20180429_120041_004
+    2300014: IMG_20180429_120435
+    2300016: IMG_20180429_120435_001
+    2300018: IMG_20180429_120435_002
+    2300020: IMG_20180429_120435_003
+    2300022: IMG_20180429_120435_004
+    2300024: IMG_20180429_120435_005
+    2300026: IMG_20180429_120435_006
+    2300028: IMG_20180429_120435_007
+    2300030: IMG_20180429_120435_008
+    2300032: IMG_20180429_120435_009
+    2300034: IMG_20180429_122516
+    2300036: IMG_20180429_122516_001
+    2300038: IMG_20180429_122516_002
+    2300040: IMG_20180429_122516_003
+    2300042: NurbsPath
+    2300044: NurbsPath_001
+    2300046: NurbsPath_002
+    2300048: NurbsPath_003
+    2300050: Plane
+    2300052: Sphere
+    3300000: BezierCircle
+    3300002: BezierCurve
+    3300004: IMG_20180429_120041
+    3300006: IMG_20180429_120041_001
+    3300008: IMG_20180429_120041_002
+    3300010: IMG_20180429_120041_003
+    3300012: IMG_20180429_120041_004
+    3300014: IMG_20180429_120435
+    3300016: IMG_20180429_120435_001
+    3300018: IMG_20180429_120435_002
+    3300020: IMG_20180429_120435_003
+    3300022: IMG_20180429_120435_004
+    3300024: IMG_20180429_120435_005
+    3300026: IMG_20180429_120435_006
+    3300028: IMG_20180429_120435_007
+    3300030: IMG_20180429_120435_008
+    3300032: IMG_20180429_120435_009
+    3300034: IMG_20180429_122516
+    3300036: IMG_20180429_122516_001
+    3300038: IMG_20180429_122516_002
+    3300040: IMG_20180429_122516_003
+    3300042: NurbsPath
+    3300044: NurbsPath_001
+    3300046: NurbsPath_002
+    3300048: NurbsPath_003
+    3300050: Plane
+    3300052: Sphere
+    4300000: Plane
+    4300002: IMG_20180429_120041_004
+    4300004: IMG_20180429_120041_003
+    4300006: IMG_20180429_120041_002
+    4300008: IMG_20180429_120041_001
+    4300010: IMG_20180429_120041
+    4300012: IMG_20180429_122516_003
+    4300014: IMG_20180429_120435_009
+    4300016: IMG_20180429_120435_008
+    4300018: IMG_20180429_122516_002
+    4300020: IMG_20180429_122516_001
+    4300022: IMG_20180429_122516
+    4300024: IMG_20180429_120435_007
+    4300026: IMG_20180429_120435_006
+    4300028: IMG_20180429_120435_005
+    4300030: IMG_20180429_120435_004
+    4300032: BezierCircle
+    4300034: BezierCurve
+    4300036: NurbsPath_003
+    4300038: NurbsPath_002
+    4300040: NurbsPath_001
+    4300042: IMG_20180429_120435_001
+    4300044: IMG_20180429_120435_002
+    4300046: IMG_20180429_120435_003
+    4300048: IMG_20180429_120435
+    4300050: NurbsPath
+    4300052: Sphere
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IMG_20180429_120041__IMG_20180429_120041_png
+    second: {fileID: 2100000, guid: 9dd96ad8d03bda64db160d8fb7252311, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IMG_20180429_120435__IMG_20180429_120435_png
+    second: {fileID: 2100000, guid: 62cc745a7a19ca14bbea46e17afcd847, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IMG_20180429_122516__IMG_20180429_122516_jpg
+    second: {fileID: 2100000, guid: 5930ab77835abb44a91449b182791036, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__IMG_20180429_122453_png
+    second: {fileID: 2100000, guid: d54a994213ccd4448a584adfcc9dd609, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: 2a99c54cd2f99df4da2bd430c70ec7b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004__IMG_20180429_122516_jpg
+    second: {fileID: 2100000, guid: 5930ab77835abb44a91449b182791036, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: ae0d8b77173069644a4cd1e94cb4f328, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

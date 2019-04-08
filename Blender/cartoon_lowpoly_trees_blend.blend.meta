@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 7cf186c70a47ebd4ebc1ddf7be3b7d14
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: https___www_turbosquid_com_Search_Artists_paulsendesign_referra
+    100004: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart0
+    100006: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart1
+    100008: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart2
+    100010: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart3
+    100012: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart4
+    100014: Tree_1
+    100016: Tree_2
+    400000: //RootNode
+    400002: https___www_turbosquid_com_Search_Artists_paulsendesign_referra
+    400004: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart0
+    400006: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart1
+    400008: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart2
+    400010: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart3
+    400012: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart4
+    400014: Tree_1
+    400016: Tree_2
+    2300000: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart0
+    2300002: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart1
+    2300004: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart2
+    2300006: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart3
+    2300008: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart4
+    2300010: Tree_1
+    2300012: Tree_2
+    3300000: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart0
+    3300002: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart1
+    3300004: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart2
+    3300006: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart3
+    3300008: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart4
+    3300010: Tree_1
+    3300012: Tree_2
+    4300000: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart0
+    4300002: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart1
+    4300004: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart2
+    4300006: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart3
+    4300008: https___www_turbosquid_com_Search_Artists_paulsendesign_referra_MeshPart4
+    4300010: Tree_2
+    4300012: Tree_1
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Treetop_1
+    second: {fileID: 2100000, guid: 2b73c5732e035e345bf720ee840d4a04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Treetop_2
+    second: {fileID: 2100000, guid: 2f9f5c3b8b07dd04a9d3717a948c5487, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trunk_1
+    second: {fileID: 2100000, guid: 4c7e9f0d87f38b24f8e2dc86b206012b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trunk_2
+    second: {fileID: 2100000, guid: 158be53c5d7186541b66ebae7d5e803f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_028089177
+    second: {fileID: 2100000, guid: 2aa2bb41da18abb45826acf854ba4311, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
